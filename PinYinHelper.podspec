@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "PinYinHelper"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "一个与拼音操作相关的swift库"
   s.homepage     = "https://github.com/clint23/PinYinHelper"
   s.license      = { :type => "MIT", :file => "LICENSE" }
